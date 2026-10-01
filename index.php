@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Sistem Informasi Akademik</h1>
-    <p>Perubahan dari branch main.</p>
+    <p>Perubahan setelah menyelesaikan merge conflict.</p>
     <p>Repository ini melanjutkan praktik Git dan GitHub dari Acara 11.</p>
 </body>
 </html>
