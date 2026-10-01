@@ -1,0 +1,19 @@
+# XAMPP
+xampp/
+
+# Composer
+vendor/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
