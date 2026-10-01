@@ -12,3 +12,7 @@ Repository ini digunakan untuk praktik Git dan GitHub pada BKPM Workshop SI Web 
 - Git Pull
 - Git Clone
 - Git History
+
+## Status
+
+Praktik Acara 11 sedang dikerjakan menggunakan repository GitHub khusus.
