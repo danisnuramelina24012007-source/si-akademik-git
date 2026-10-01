@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Sistem Informasi Akademik</h1>
-    <p>Praktik Git Branch, Merge, Conflict, dan Pull Request.</p>
+    <p>Perubahan dari branch main.</p>
     <p>Repository ini melanjutkan praktik Git dan GitHub dari Acara 11.</p>
 </body>
 </html>
