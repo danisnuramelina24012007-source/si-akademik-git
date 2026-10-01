@@ -1,4 +1,4 @@
-# SI Akademik - Acara 11
+# SI Akademik - Acara 12
 
 Repository ini digunakan untuk praktik Git dan GitHub pada BKPM Workshop SI Web Server.
 
@@ -12,7 +12,13 @@ Repository ini digunakan untuk praktik Git dan GitHub pada BKPM Workshop SI Web 
 - Git Pull
 - Git Clone
 - Git History
+- Branch
+- Feature
+- Commit
+- Merge
+- Merge Conflict
+- Pull Request
 
 ## Status
 
-Praktik Acara 11 sedang dikerjakan menggunakan repository GitHub khusus.
+Praktik Acara 11 dan Acara 12 sedang dikerjakan menggunakan repository GitHub khusus.
